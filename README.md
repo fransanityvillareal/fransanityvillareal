@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌟 Aspiring App and Web Developer  
-🏛️ Proud BSIT Student at Ateneo De Naga University  
+🏛️ BSIT Student at Ateneo De Naga University  
 📚 Passionate about learning and problem-solving  
 💡 Always dreaming big and turning ideas into reality  
 💬 Ask me about my projects or tech journey!
