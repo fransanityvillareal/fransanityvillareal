@@ -47,7 +47,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fransanityvillareal&theme=cobalt&hide=html,css,javascript,typescript)
 
 
 </div>
