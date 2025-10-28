@@ -7,10 +7,16 @@
 
 ---
 
-![fransanity's GitHub Banner](https://raw.githubusercontent.com/fransanity/fransanity/main/banner.png)
+<div align="center">
+
+![fransanityvillareal's GitHub Banner](https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/banner.png)
+
+</div>
+
+---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/466993293](https://www.linkedin.com/in/john-francis-466993293/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-francis-466993293/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jfvillareal@gbox.adnu.edu.ph)
 
 ---
@@ -40,7 +46,11 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br>  
+![](https://github-readme-stats.vercel.app/api?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br>  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fransanityvillareal&theme=cobalt&hide_border=false)<br>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
+🧠 *“Code, Learn, Repeat.”*  
+🚀 *Always curious. Always improving.*
