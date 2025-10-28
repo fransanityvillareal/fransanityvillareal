@@ -7,10 +7,26 @@
 
 ---
 
+## 🖼️ GitHub Banners
+
+### 🪄 Devemon Card
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/github-wallpaper-fransanityvillareal-small.png" alt="fransanityvillareal GitHub Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/devemon-card-fransanityvillareal.png" alt="Devemon Card Banner" width="100%">
 </div>
 
+---
+
+### 💻 README Banner
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/fransanityvillareal-readme-banner.png" alt="Readme Banner" width="100%">
+</div>
+
+---
+
+### 🧠 GitHub Wallpaper
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/github-wallpaper-fransanityvillareal-small.png" alt="GitHub Wallpaper Banner" width="100%">
+</div>
 
 ---
 
