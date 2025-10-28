@@ -11,7 +11,7 @@
 
 ### 🪄 Devemon Card
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/devemon-card-fransanityvillareal.png" alt="Devemon Card Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/devemon-card-fransanityvillareal-1.png" alt="Devemon Card Banner" width="100%">
 </div>
 
 ---
