@@ -1,71 +1,61 @@
-# 💫 About Me:
-🌟 Aspiring App and Web Developer  
-🏛️ BSIT Student at Ateneo De Naga University  
-📚 Passionate about learning and problem-solving  
-💡 Always dreaming big and turning ideas into reality  
-💬 Ask me about my projects or tech journey!
+# About Me
+
+Aspiring App and Web Developer  
+BSIT Student at Ateneo De Naga University  
+Passionate about learning, creating, and solving real-world problems through technology.  
+Always aiming to turn ideas into impactful digital experiences.  
 
 ---
 
-## 🖼️ GitHub Banners
-
-### 🪄 Devemon Card
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/devemon-card-fransanityvillareal-1.png" alt="Devemon Card Banner" width="70%">
+  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/github-wallpaper-fransanityvillareal-small.png" alt="GitHub Banner" width="100%">
 </div>
 
 ---
 
-### 💻 README Banner
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/fransanityvillareal-readme-banner.png" alt="Readme Banner" width="100%">
-</div>
-
----
-
-### 🧠 GitHub Wallpaper
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/github-wallpaper-fransanityvillareal-desktop.png" alt="GitHub Wallpaper Banner" width="100%">
-</div>
-
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-francis-466993293/)  
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-francis-466993293/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jfvillareal@gbox.adnu.edu.ph)
 
 ---
 
-# 💻 Tech Stack:
-### **Programming & Scripting:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)  
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)  
+## Technical Skills
 
-### **Development & Design:**  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+### Programming & Scripting  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 
-### **Database & Tools:**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)  
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
+### Development & Design  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=fransanityvillareal&theme=cobalt&hide_border=false)<br>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Databases & Tools  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
 
 ---
 
-🧠 *“Code, Learn, Repeat.”*  
-🚀 *Always curious. Always improving.*
+## GitHub Statistics
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fransanityvillareal&theme=cobalt&hide_border=false" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+
+</div>
+
+---
+
+### Personal Statement
+> “Building technology with purpose, learning with curiosity, and coding with integrity.”
