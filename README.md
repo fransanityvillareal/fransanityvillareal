@@ -1,57 +1,60 @@
+# Now Playing: John Francis Villareal
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/fransanityvillareal-readme-banner.png" alt="Profile Banner" width="100%">
+
 
 ---
 
+## Currently Playing
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/fransanityvillareal-readme-banner.png" alt="GitHub Banner" width="100%">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wbx5fyumwphmwj7upsduhkf3r4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wbx5fyumwphmwj7upsduhkf3r4&cover_image=true&theme=default&show_offline=false&background_color=191414&interchange=false&profanity=false&bar_color=1db954" alt="Spotify Now Playing" width="400" />
+  </a>
 </div>
 
----
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-francis-466993293/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jfvillareal@gbox.adnu.edu.ph)
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset=" Skills_Animation_White.gif">
+    <img alt="Tech Stack Skills Animation" src="./Skills_Animation_White.gif" width="600">
+  </picture>
+</div>
 
-## Technical Skills
+<br clear="both"/>
 
-### Programming & Scripting  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 
-### Development & Design  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+## Development Stats
 
-### Databases & Tools  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
-
----
-
-## GitHub Statistics
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fransanityvillareal&show_icons=true&theme=dark&bg_color=191414&title_color=1DB954&text_color=FFFFFF&icon_color=1DB954&hide_border=true&include_all_commits=true&count_private=true" height="170" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fransanityvillareal&theme=cobalt&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fransanityvillareal&theme=dark&background=191414&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=1DB954&dates=FFFFFF&hide_border=true" height="170" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransanityvillareal&theme=dark&bg_color=191414&title_color=1DB954&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="170" />
 
 </div>
 
 ---
 
-### Personal Statement
-> “Building technology with purpose, learning with curiosity, and coding with integrity.”
+<div align="center">
+
+### About Me
+
+> *"Building technology with purpose, learning with curiosity, and coding with integrity."*
+
+---
+
+<img src="https://img.shields.io/badge/Status-Currently_Coding-1DB954?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+**Thanks for visiting my profile! Feel free to connect and let's create something amazing together!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=fransanityvillareal&color=1DB954&style=for-the-badge)
+
+</div>
