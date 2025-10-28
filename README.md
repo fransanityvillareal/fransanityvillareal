@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/devemon-badge-fransanityvillareal.png" alt="GitHub Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/fransanityvillareal-readme-banner.png" alt="GitHub Banner" width="100%">
 </div>
 
 ---
