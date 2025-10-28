@@ -40,6 +40,7 @@
 
 ## GitHub Statistics
 <div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fransanityvillareal)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://github-readme-stats.vercel.app/api?username=fransanityvillareal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" height="150" />
   
