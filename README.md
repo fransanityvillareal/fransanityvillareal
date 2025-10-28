@@ -35,7 +35,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=fransanityvillareal&show_icons=true&theme=dark&bg_color=191414&title_color=1DB954&text_color=FFFFFF&icon_color=1DB954&hide_border=true&include_all_commits=true&count_private=true" height="170" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fransanityvillareal&theme=dark&background=191414&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=1DB954&dates=FFFFFF&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fransanityvillareal&theme=cobalt&hide_border=false" height="150" />  
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransanityvillareal&theme=dark&bg_color=191414&title_color=1DB954&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="170" />
 
