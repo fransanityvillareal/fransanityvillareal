@@ -1,14 +1,8 @@
-# About Me
-
-Aspiring App and Web Developer  
-BSIT Student at Ateneo De Naga University  
-Passionate about learning, creating, and solving real-world problems through technology.  
-Always aiming to turn ideas into impactful digital experiences.  
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/github-wallpaper-fransanityvillareal-small.png" alt="GitHub Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/github-wallpaper-fransanityvillareal-desktop.png" alt="GitHub Banner" width="100%">
 </div>
 
 ---
