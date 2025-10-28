@@ -8,10 +8,9 @@
 ---
 
 <div align="center">
-
-![fransanityvillareal's GitHub Banner](https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/banner.png)
-
+  <img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/main/github-wallpaper-fransanityvillareal-small.png" alt="fransanityvillareal GitHub Banner" width="100%">
 </div>
+
 
 ---
 
