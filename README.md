@@ -9,6 +9,10 @@
 
 ###
 
+---
+<img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+
 
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
