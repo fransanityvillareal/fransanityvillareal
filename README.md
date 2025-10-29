@@ -5,6 +5,9 @@
 
 
 ---
+<img src="https://raw.githubusercontent.com/fransanityvillareal/fransanityvillareal/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
