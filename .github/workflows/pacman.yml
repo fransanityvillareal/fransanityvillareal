@@ -1,53 +1,48 @@
-name: Generate Pacman Animation
+name: Generate Pacman Contribution Animation
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
-  generate:
+  generate-pacman:
+    name: Generate Pacman SVG
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     timeout-minutes: 5
 
     steps:
-      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      # 2️⃣ Set up Node.js (required by Pacman action)
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 18
 
-      # 3️⃣ Generate Pacman SVGs
-      - name: Generate pacman-contribution-graph.svg
+      - name: Prepare output directory
+        run: mkdir -p dist/pacman
+
+      - name: Generate Pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: fransanityvillareal
+          output_path: dist/pacman
 
-      # 4️⃣ Debug: list generated files
-      - name: List generated files
-        run: ls -la dist
+      - name: Verify generated files
+        run: ls -R dist/pacman
 
-      # 5️⃣ Create/checkout the output branch
-      - name: Create/Checkout output branch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -B output
-
-      # 6️⃣ Push generated SVGs to the output branch
-      - name: Push pacman SVGs
+      - name: Deploy Pacman SVGs
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: pacman-output
+          build_dir: dist/pacman
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
