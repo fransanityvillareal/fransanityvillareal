@@ -106,7 +106,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fransanityvillareal&layout=compact&langs_count=4&theme=radical&hide_border=false" height="150" alt="languages graph" /> <br>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=fransanityvillareal&theme=github-dark&border_radius=4.9&date_format=%5BY%20%5DM%20j" height="150" alt="GitHub Streak" />
+    <!-- <img src="https://streak-stats.demolab.com?user=fransanityvillareal&theme=github-dark&border_radius=4.9&date_format=%5BY%20%5DM%20j" height="150" alt="GitHub Streak" /> -->
   </a> <br>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fransanityvillareal&theme=github_dark" height="150" alt="profile details graph" /> <br>
